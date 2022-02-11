@@ -1,3 +1,5 @@
+//Javascript provides functionality to a website to make it dynamic
+
 $(function () {
   // React to hitting enter in the text box instead of clicking submit.
   $("#search-weather").submit(function(e) {

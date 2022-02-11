@@ -1,4 +1,6 @@
 <?php
+
+//PHP is the backend or server language 
   /**
    * This page talks to weatherapi.com.
    */
